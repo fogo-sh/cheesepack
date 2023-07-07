@@ -1,0 +1,13 @@
+name = "Cheesepack"
+author = "Jack Harrhy"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "184dcf5e4284ca7344f889e54d890b2c451b33f95cf55a6e308e503f64e3e4f0"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.20.0-beta.2"
