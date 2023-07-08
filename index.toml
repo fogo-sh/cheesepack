@@ -31,6 +31,11 @@ hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "9e7e06695857a892092cb15d380a9584adb62709365b10a22f7e29430458eb1e"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
 metafile = true
