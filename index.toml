@@ -11,8 +11,13 @@ hash = "86ce47da34b9a69c105e4e22058a5d6fc12448283a54a1f911c16351f096068e"
 metafile = true
 
 [[files]]
+file = "mods/chest-tracker.pw.toml"
+hash = "3c0e572ee64dc0fae964d0334b0e8526d964c37b41a7983be5624ed93797fb62"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
+hash = "df83086d160981e8d4e29defe7253d6b2f3339d33dcc2c72e8359bea2f134960"
 metafile = true
 
 [[files]]
@@ -42,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "4f5bc996ba57f18abd2dc12801f1cbb8d06d3d115232b15d27174172f4d4004f"
+hash = "ee293388d8578d1c91fb3b642c703eb4db43a9d736c2a94bd5bd365a9afa0baf"
 metafile = true
 
 [[files]]
